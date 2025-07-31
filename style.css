@@ -1,0 +1,42 @@
+li {
+    list-style: none;
+}
+
+header {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(52, 0, 101);
+    padding: 2%;
+    border-radius: 1rem;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    width: 100%;
+}
+
+address,
+section {
+    border: solid;
+    margin: 1rem;
+    padding-left: 1rem;
+    border-radius: 1rem;
+    border-left: solid rgb(52, 0, 101) 0.5rem;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(52, 0, 101);
+    border: solid white;
+    color: white;
+    padding: 2%;
+}
+
+#ui {
+    color: black;
+}
+
+h2 {
+    color: rgb(52, 0, 101)   
+}
