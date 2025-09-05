@@ -1,1 +1,2 @@
-le portfolio est en cours de construction 
+# Bienvenue sur mon portfolio officiel. ✨
+
